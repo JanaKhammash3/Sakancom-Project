@@ -1,3 +1,7 @@
+# Sakancom - Rental and Used Furniture Management System
+
+## Overview
+
 Sakankom is an app that facilitates housing reservations and furniture purchases. 
 Users of the Sakancom application fall into three categories: Tenants who can see 
 all flats and reserve one They can also create orders, remove them, see their 
@@ -7,6 +11,25 @@ delete it, or display both the available and reserved units. and Administrators 
 have the ability to add new sellable things by providing all necessary information 
 (name, kind, quantity), remove them, display all orders placed with the company, 
 view unpaid orders, and search for users and objects.
+
+## Features
+
+### Tenants:
+- View available housing with details (price, location, services)
+- Book accommodation directly
+- View student housing info (ages, majors)
+- Advertise used furniture for sale
+- Personal control panel with booking and owner info
+
+### Housing Owners:
+- List properties with photos, rent details, and contact info
+- Dashboard to manage tenants, apartments, and communication details
+
+### System Admin:
+- Approve/reject housing advertisements
+- Manage reservations
+- Add, modify, and advertise properties
+
 
 Coverage Report: 
 the total coverage without Main is 86.5%. 
